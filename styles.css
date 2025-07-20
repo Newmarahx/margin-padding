@@ -1,14 +1,14 @@
 .box1{
     background-color: pink;
-    padding-top:18px ;
-    padding-right:18px ;
-    padding-bottom:18px ;
+    padding-top:10px ;
+    padding-right:30px ;
+    padding-bottom:10px ;
     padding-left:18px ;
     margin-top:20px ;
     margin-right: 25px ;
     margin-bottom:12px ;
     margin-left:20px ;
-    border: 32px solid blue;
+    border: 2px solid blue;
 }
 
 .box2{
@@ -34,6 +34,6 @@
     margin-right:40px ;
     margin-bottom:20px ;
     margin-left:10px ;
-    border: 32px solid brown ;
+    border: 2px solid brown ;
     
 }
